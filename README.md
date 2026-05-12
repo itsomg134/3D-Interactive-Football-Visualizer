@@ -47,7 +47,7 @@ football-visual/
 
 > **Note:** All code is self-contained in the HTML file, making it easy to deploy or customize.
 
-## 🎮 How to Use
+##  How to Use
 
 1. **Clone the repository**:
    ```bash
