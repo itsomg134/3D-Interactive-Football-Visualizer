@@ -59,7 +59,7 @@ football-visual/
    - Rotate, zoom, and pan to examine the ball from every angle.
    - Observe the dynamic lighting changes and particle motion.
 
-## 🧠 Customization Tips
+##  Customization Tips
 
 Want to tweak the ball? Edit the `createFootballTexture()` function inside the script:
 
@@ -84,7 +84,7 @@ Contributions are welcome! If you have ideas for new features (different ball de
 - Create a feature branch.
 - Submit a pull request.
 
-## 📄 License
+##  License
 
 This project is open source and available under the **MIT License**. Feel free to use, modify, and distribute as you like.
 
