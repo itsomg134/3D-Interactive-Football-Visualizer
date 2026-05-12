@@ -28,11 +28,9 @@ An immersive, real-time 3D visualization of a classic soccer ball built with **T
 
 To see the ball in action, simply open the `index.html` file in any modern web browser. No build steps or server required!
 
-![Screenshot Placeholder](screenshot.png) <!-- Add a screenshot of your project -->
-
 ##  Built With
 
-- **[Three.js](https://threejs.org/)** – Core 3D library for WebGL rendering.
+- **Three.js** – Core 3D library for WebGL rendering.
 - **CSS2DRenderer** – For floating HTML labels.
 - **JavaScript (ES6)** – Animation logic and procedural texture generation.
 
