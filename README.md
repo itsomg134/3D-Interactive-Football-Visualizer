@@ -88,7 +88,7 @@ Contributions are welcome! If you have ideas for new features (different ball de
 
 This project is open source and available under the **MIT License**. Feel free to use, modify, and distribute as you like.
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - Inspired by classic soccer ball geometry and stadium aesthetics.
 - Built with the amazing Three.js ecosystem.
