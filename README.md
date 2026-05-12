@@ -66,14 +66,6 @@ Want to tweak the ball? Edit the `createFootballTexture()` function inside the s
 - **Lighting intensity**: Tweak the `intensity` values of lights (e.g., `mainLight`, `rimLight`).
 - **Animation speed**: Modify the `time` increment in the `animate()` function.
 
-##  Media & Showcase
-
-| Interactive View | Dynamic Lighting |
-|----------------|------------------|
-| ![View 1](demo1.gif) | ![View 2](demo2.gif) |
-
-*Add your own GIFs/screenshots here.*
-
 ##  Contributing
 
 Contributions are welcome! If you have ideas for new features (different ball designs, better shadows, AR support), feel free to:
