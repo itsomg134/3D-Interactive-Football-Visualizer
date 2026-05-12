@@ -7,6 +7,7 @@ An immersive, real-time 3D visualization of a classic soccer ball built with **T
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Interactive](https://img.shields.io/badge/Interactive-3D-orange)
 
+<img width="1901" height="907" alt="image" src="https://github.com/user-attachments/assets/81a29485-5340-48cd-b52f-5ebb12f951d1" />
 
 ## Features
 
